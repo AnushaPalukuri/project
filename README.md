@@ -7,10 +7,10 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://agreeable-coast-01f0bf600.3.azurestaticapps.net  
 **Project demo video link**-
 
-###Azure Technologies used for Project
+##Azure Technologies used for Project
  
- -*Static web Apps
- -*Health bot
+ -Static web Apps
+ -Health bot
 
 ## Features and Functionalities 😃
 
