@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://agreeable-coast-01f0bf600.3.azurestaticapps.net  
 **Project demo video link**-
 
-##Azure Technologies used for Project
+## Azure Technologies used for Project
  
  -Static web Apps
  
@@ -27,15 +27,15 @@ This is a web based application developed for health related telugu based websit
 
 ![screenshot-home](https://github.com/AnushaPalukuri/project/assets/113781882/86eaaf5a-ce4a-440b-b9e0-0d9f637df1a4)
 
-##Services-
+## Services-
 
 ![Screenshot -services](https://github.com/AnushaPalukuri/project/assets/113781882/6c685468-1f4d-41ef-adc3-b94b0592aa96)
 
-##Health bot-
+## Health bot-
 
 ![Screenshot -healthbot](https://github.com/AnushaPalukuri/project/assets/113781882/6f7eec64-30e1-4fce-866f-ee26970575e1)
 
-##Contact us-
+##  Contact us-
 
 ![Screenshot -contact](https://github.com/AnushaPalukuri/project/assets/113781882/cfda0771-5213-44c7-8486-f76848738984)
 
