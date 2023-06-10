@@ -5,7 +5,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://agreeable-coast-01f0bf600.3.azurestaticapps.net  
-**Project demo video link**-
+**Project demo video link**- https://youtu.be/dIiU6YZk9Ds
 
 ## Azure Technologies used for Project
  
