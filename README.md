@@ -9,9 +9,9 @@ This is a web based application developed for health related telugu based websit
 
 ## Azure Technologies used for Project
  
- -Static web Apps
+ - Static web Apps
  
- -Health bot
+ - Health bot
 
 ## Features and Functionalities 😃
 
